@@ -10,19 +10,23 @@
 
 1. Iniciar Servidor
   - Windows
+  
 '''
 python server.py
 '''
   - Unix
+  
 '''
 python3 server.py
 '''
 2. Iniciar Cliente
   - Windows
+  
 '''
 python cliente.py
 '''
   -Unix
+  
 '''
 python3 cliente.py
 '''
