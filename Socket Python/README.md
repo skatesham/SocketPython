@@ -6,6 +6,26 @@
 - Enquanto o servidor espera resposta e fala após recebes
 - Cada um fala de cada vez
 
+### Para Executar o programa
+
+1. Iniciar Servidor
+  - Windows
+'''
+python server.py
+'''
+  - Unix
+'''
+python3 server.py
+'''
+2. Iniciar Cliente
+  - Windows
+'''
+python cliente.py
+'''
+  -Unix
+'''
+python3 cliente.py
+'''
 ##### Programa em Python 3
 
 ###### Alteração por Sham Vinicius Fiorin
