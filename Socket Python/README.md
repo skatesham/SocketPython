@@ -25,11 +25,11 @@ python3 server.py
 '''
 python cliente.py
 '''
+
   -Unix
-  
-'''
+'
 python3 cliente.py
-'''
+'
 ##### Programa em Python 3
 
 ###### Alteração por Sham Vinicius Fiorin
