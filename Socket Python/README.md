@@ -8,5 +8,5 @@
 
 ##### Programa em Python 3
 
-###### Alteração por Sham Vinicius Fiorin \n
+###### Alteração por Sham Vinicius Fiorin
 Fonte: https://stackoverflow.com/questions/35276924/simple-python-chat-app-with-sockets
