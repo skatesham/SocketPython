@@ -11,7 +11,7 @@
 1. Iniciar Servidor
   - Windows
   
-'''
+'''python
 python server.py
 '''
   - Unix
