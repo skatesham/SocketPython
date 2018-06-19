@@ -9,15 +9,15 @@
 ### Para Executar o programa
 
 1.Windows
-```python
+```bash
 python server.py
 python cliente.py
 ```
 
 2. Unix
-```python
+```bash
 python3 server.py
-python3 cliente.pt
+python3 cliente.py
 ```
 
 ##### Programa em Python 3
