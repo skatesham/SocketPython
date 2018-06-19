@@ -6,7 +6,7 @@
 - Enquanto o servidor espera resposta e fala após recebes
 - Cada um fala de cada vez
 
-###### Programa em Python 3
+##### Programa em Python 3
 
-####### Alteração por Sham Vinicius Fiorin
+###### Alteração por Sham Vinicius Fiorin \n
 Fonte: https://stackoverflow.com/questions/35276924/simple-python-chat-app-with-sockets
